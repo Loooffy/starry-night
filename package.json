@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/matthewbryancurtis/aframe-star-system-component#readme",
   "scripts": {
-      "server": "live-server ./ --port=8000 --mount=/starry-night/:./ --mount=/starry-night/assets:./assets"
+      "server": "live-server ./ --port=8000 --mount=/starry-night/:./"
   }
 }
