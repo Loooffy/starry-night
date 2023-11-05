@@ -16,7 +16,7 @@ AFRAME.registerComponent('star-system', {
     },
     radius: {
       type: 'number',
-      default: 300,
+      default: 5000,
       min: 0,
     },
     depth: {
@@ -31,7 +31,7 @@ AFRAME.registerComponent('star-system', {
     },
     count: {
       type: 'number',
-      default: 10000,
+      default: 1000,
       min: 0,
     },
     texture: {
