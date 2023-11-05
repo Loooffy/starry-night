@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/matthewbryancurtis/aframe-star-system-component/issues"
   },
-  "homepage": "https://github.com/matthewbryancurtis/aframe-star-system-component#readme"
+  "homepage": "https://github.com/matthewbryancurtis/aframe-star-system-component#readme",
+  "scripts": {
+      "server": "live-server ./ --port=8000 --mount=/starry-night/:./"
+  }
 }
